@@ -3,7 +3,7 @@
 namespace Lab1
 {
     class Program
-    {
+    { 
 
         static void DifferenceTwoNums(ref double num1, ref double num2)
         {
