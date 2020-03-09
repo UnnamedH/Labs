@@ -9,7 +9,7 @@ namespace Lab1
         {
             Console.WriteLine("Разность двух чисел: " + (num1 - num2));
         }
-
+         
         static void Main(string[] args)
         {
             double num1 = 4, num2 = 3;
